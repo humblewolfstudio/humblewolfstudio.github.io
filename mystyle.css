@@ -27,3 +27,12 @@
     color: aliceblue;
     font-size: 20px;
  }
+
+.para {
+  white-space: pre-line;
+}
+
+p {
+  display: block;
+  margin-left: 1em;
+}
